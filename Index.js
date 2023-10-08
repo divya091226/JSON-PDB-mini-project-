@@ -1,4 +1,4 @@
-var token = "90936861|-31949322861328052|90950628";
+var token = "90931627|-31949332925953355|90961838";
 var dbName = "SCHOOL-DB";
 var relName = "STUDENT-TABLE";
 resetForm();
